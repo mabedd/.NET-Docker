@@ -1,4 +1,4 @@
-# Next.js Docker Configuration
+# .NET Docker Configuration
 
 This repository contains a sample .NET application configured to run in a Docker container. This setup can be applied in any Docker environment to facilitate easy development and deployment.
 
